@@ -1,0 +1,27 @@
+h3{
+        color: #8d8d8d;
+        margin-top: 20px;
+        font-weight: 100;
+        font-size: 14px;
+        font-family: 'Poppins', sans-serif;
+        letter-spacing: 3px;
+        animation: fadeIn 1s 1.7s backwards;
+}
+.text-zone-right {
+    z-index: 0;
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    top: 0;
+    right: 10%;
+    bottom: 0;
+    left: auto;
+    margin: auto;
+    .placeholder{
+        width: 100%;
+        height: auto;
+        animation: fadeIn 1s 1.7s backwards;
+    }
+}
+
+
